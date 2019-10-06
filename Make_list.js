@@ -28,7 +28,7 @@ class Make_list extends Component{
     )
     }
 }
-export default Tugas;
+export default Make_list;
 export const styles =StyleSheet.create({
     container:{
         flex:1,
